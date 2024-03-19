@@ -9,7 +9,7 @@ public class Control {
         }
         
    public static int operacion(int a, int b) {
-        return a*b;
+        return a/b;
    }    
   
 }
